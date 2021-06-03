@@ -1,2 +1,2 @@
 all:
-	cd myWebSite && docker-compose up 
+	cd myWebsite && docker-compose up 
